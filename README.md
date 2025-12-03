@@ -1,6 +1,6 @@
 # Linearized Pitch-Axis Attitude Control of a Rocket Using State Feedback and Observer Design
 
-This will be a project of some sort dealing with rockets and/or satellites. The goal is to discuss the physical setup, system parameters, design criteria, and system equations. Will have a presentation and a short IEEE-styled paper. This is also 25% of my course average. 
+This will be a project of some sort dealing with rockets and/or satellites. The goal is to discuss the physical setup, system parameters, design criteria, and system equations. Will have a presentation and a short IEEE-styled paper. This is also 25% of my course average. I worked on this project with Dakota Moye (dkmoye43@tntech.edu), but the project idea was my own. 
 
 ## Final Project for ECE 6200 @ TnTech
 
