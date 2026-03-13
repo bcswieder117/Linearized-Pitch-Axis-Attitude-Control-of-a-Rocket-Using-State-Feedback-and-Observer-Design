@@ -1,7 +1,7 @@
 # Linearized Pitch-Axis Attitude Control of a Rocket Using State Feedback and Observer Design
 
 **Final Project — ECE 6200: Linear Systems Analysis**
-Tennessee Technological University | Collaborator: Dakota Moye
+Tennessee Technological University | Collaborator: Dakota Moye (djmoye43@tntech.edu)
 
 ## Course Description
 State space analysis of multiple-input/multiple-output continuous and discrete-time systems; linear spaces; time-varying systems, controllability, observability, and stability.
